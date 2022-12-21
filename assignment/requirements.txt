@@ -1,9 +1,0 @@
-altair
-pandas
-streamlit
-matplotlib
-plotly
-option_menu
-colorsys
-time
-copy
