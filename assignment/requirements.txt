@@ -1,8 +1,8 @@
 altair
 pandas
 streamlit
-matplotlib.pyplot
-plotly.express
+matplotlib
+plotly
 option_menu
 colorsys
 time
