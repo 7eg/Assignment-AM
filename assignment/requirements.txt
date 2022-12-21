@@ -1,0 +1,9 @@
+altair
+pandas
+streamlit
+matplotlib.pyplot
+plotly.express
+streamlit_option_menu
+colorsys
+time
+copy
