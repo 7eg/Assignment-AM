@@ -4,5 +4,3 @@ streamlit
 matplotlib
 plotly
 streamlit_option_menu
-time
-copy
