@@ -3,7 +3,7 @@ pandas
 streamlit
 matplotlib
 plotly
-option_menu
+streamlit_option_menu
 colorsys
 time
 copy
